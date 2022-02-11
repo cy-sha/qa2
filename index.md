@@ -2,7 +2,7 @@
 <script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/ea3acda3028dae767a7137fc/script.js"></script>
 <!-- End cookieyes banner -->
 
-## Welcome to GitHub Pages
+## CY QA2 Sample site
 
 You can use the [editor on GitHub](https://github.com/shaanMoz/site-qa2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
