@@ -1,4 +1,4 @@
-<!-- Start cookieyes banner --> <script id="cookieyes" type="text/javascript" src="https://trusttick.com/client_data/58dd38836694903ed8ef52f2/script.js"></script> <!-- End cookieyes banner -->
+<!-- Start cookieyes banner --> <script id="cookieyes" type="text/javascript" src="http://phplaravel-273836-1831862.cloudwaysapps.com/client_data/58dd38836694903ed8ef52f2/script.js"></script> <!-- End cookieyes banner -->
 
 ## Welcome to GitHub Pages
 
