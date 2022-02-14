@@ -3,7 +3,7 @@
 <!-- End cookieyes banner -->
 
 <!-- Start cookieyes banner -->
-<!-- <script id="cookieyes" type="text/javascript" src="https://trusttick.com/client_data/73b67a119295d1b251eb253e/script.js"></script> -->
+<script id="cookieyes" type="text/javascript" src="https://trusttick.com/client_data/73b67a119295d1b251eb253e/script.js"></script>
 <!-- End cookieyes banner -->
 
 ## CY QA2 Sample site
