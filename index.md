@@ -1,9 +1,8 @@
 
 <!-- Start cookieyes banner -->
-<!-- <script id="cookieyes" type="text/javascript" src="https://trusttick.com/client_data/ce6d15ec5a48c0d06f3d79ad/script.js"></script> -->
+<script id="cookieyes" type="text/javascript" src="https://trusttick.com/client_data/ce6d15ec5a48c0d06f3d79ad/script.js"></script>
 <!-- End cookieyes banner -->
 
-<!-- Start cookieyes banner --> <script id="cookieyes" type="text/javascript" src="https://scriptstaging.cookieyes.com/client_data/4e27e67c7f0e13033c6458f3/script-full.js"></script> <!-- End cookieyes banner -->
 
 ## CY QA2 Sample site
 
