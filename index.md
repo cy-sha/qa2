@@ -1,5 +1,7 @@
 
-
+<!-- Start cookieyes banner -->
+<script id="cookieyes" type="text/javascript" src="https://trusttick.com/client_data/ce6d15ec5a48c0d06f3d79ad/script.js"></script>
+<!-- End cookieyes banner -->
 
 ## CY QA2 Sample site
 
